@@ -2,7 +2,7 @@
 # User specific shebang line. Change to your Python interpreter dir
 
 # Attribution:
-# Quicksort:
+# Quicksort: https://rosettacode.org/wiki/Sorting_algorithms/Quicksort#Python
 
 # Heapsort documentation: https://docs.python.org/3.5/library/heapq.html#heapq.nlargest
 
